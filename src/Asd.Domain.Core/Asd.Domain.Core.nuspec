@@ -2,7 +2,8 @@
 <package >
   <metadata>
     <id>Asd.Domain.Core</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
+    <title>Asd.Domain.Core</title>
     <authors>stefan</authors>
     <owners>stefan</owners>
     <licenseUrl>https://github.com/stefanmerkel/Asd.Domain.Core</licenseUrl>

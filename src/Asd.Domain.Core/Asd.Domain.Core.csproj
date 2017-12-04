@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bus\IAsdBus.cs" />
     <Compile Include="Commands\AsdCommand.cs" />
     <Compile Include="Commands\AsdCommandResponse.cs" />
     <Compile Include="Events\AsdEvent.cs" />
