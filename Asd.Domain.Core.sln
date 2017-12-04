@@ -7,11 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{79B4CAEC-D1A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asd.Domain.Core", "src\Asd.Domain.Core\Asd.Domain.Core.csproj", "{742CE1E8-405B-4F65-B7C0-63BA0EF31455}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D2675326-07AA-4647-99E8-751C641C457A}"
-	ProjectSection(SolutionItems) = preProject
-		Package.nuspec = Package.nuspec
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
